@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments and local tool caches
+/.venv/
+/.pytest_cache/
+/.ruff_cache/
+/.mypy_cache/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+*.eggs
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# IDEs and OS files
+.idea/
+.vscode/
+.settings/
+.vs/
+.DS_Store
+
+# Backup files
+*~
+*.swp
+
+# OCA rules
+!static/lib/
