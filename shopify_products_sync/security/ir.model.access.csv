@@ -1,0 +1,9 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_shopify_backend_user,access.shopify.backend.user,model_shopify_backend,shopify_products_sync.shopify_user_group,1,0,0,0
+access_shopify_backend_manager,access.shopify.backend.manager,model_shopify_backend,shopify_products_sync.shopify_manager_group,1,1,1,1
+access_shopify_product_template_user,access.shopify.product.template.user,model_shopify_product_template,shopify_products_sync.shopify_user_group,1,0,0,0
+access_shopify_product_template_manager,access.shopify.product.template.manager,model_shopify_product_template,shopify_products_sync.shopify_manager_group,1,1,1,1
+access_shopify_product_product_user,access.shopify.product.product.user,model_shopify_product_product,shopify_products_sync.shopify_user_group,1,0,0,0
+access_shopify_product_product_manager,access.shopify.product.product.manager,model_shopify_product_product,shopify_products_sync.shopify_manager_group,1,1,1,1
+access_shopify_sync_wizard_user,access.shopify.sync.wizard.user,model_shopify_sync_wizard,shopify_products_sync.shopify_user_group,1,0,0,0
+access_shopify_sync_wizard_manager,access.shopify.sync.wizard.manager,model_shopify_sync_wizard,shopify_products_sync.shopify_manager_group,1,1,1,1
