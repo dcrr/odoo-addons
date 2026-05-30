@@ -12,6 +12,17 @@ individually in the background through asynchronous jobs using the connector fra
 Odoo Community Association. This approach avoids running long transactional processes in the 
 foreground, improving scalability and reducing the impact on server performance.
 
+Demo
+====
+
+.. image:: static/description/demo.gif
+   :alt: Shopify Product Sync Demo
+
+Vídeo completo:
+
+`Ver demo en YouTube <https://www.youtube.com/watch?v=vqRi7OO4-jw>`_
+
+
 Author
 ------------
 
